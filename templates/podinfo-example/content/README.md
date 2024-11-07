@@ -1,6 +1,6 @@
 # Podinfo - ${{ values.name | capitalize }}
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/${{ values.orgId }}/${{ values.name }})
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/${{ values.githubOrgId }}/${{ values.name }})
 
 The workload is the `podinfo` container image.
 
